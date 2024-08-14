@@ -1,0 +1,62 @@
+body {
+    background-image: url(https://think360studio-media.s3.ap-south-1.amazonaws.com/download/india-flag-2021-wallpaper-8.png);
+    background-size: cover;
+    background-position: center center;
+}
+.header-item {
+    display: inline;
+    vertical-align: middle;
+    margin-right: 20px;
+    padding-left: 23%;
+}
+header {
+    margin-top: 20px;
+    background-color: #D3D3D3;
+}
+
+.header-item a {
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Times New Roman;
+    font-weight: 500;
+}
+
+.p1 {
+    display: inline-block;
+    width: 40%;
+    background-color: red;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .p2 {
+    display: inline-block;
+    width: 54.3%;
+    background-color: red;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+  }
+
+.footer-item {
+    display: inline;
+    vertical-align: middle;
+    margin-right: 20px;
+    padding-left: 23%;
+}
+footer {
+    margin-top: 20px;
+    background-color: lightpink;
+}
+
+.footer-item a {
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Times New Roman;
+    font-weight: 500;
+}
